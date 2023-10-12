@@ -1,0 +1,59 @@
+What is Object? An object will exist either logically or pysically
+OOPS: Object Oriented Progrm System. --> everthing will be maintained as object in the prog lan.
+	Java, Python, .Net. Scala, Rube, Object C++....
+
+EX: Human, Cat, Chair, Eclipse, Browsers....
+
+
+they are 6 features are there in the OOPS: 
+
+1. Object, 2. Class, 3. Inheritance, 4. Encapsulation, 5. Abstraction, 6. Polymorpshim.
+ Object? An object will exist either logically or pysically. In java logically object
+ 
+ Object is containing 3 main features(Charactersitcs) : 1. Identity, 2. State (Properites), 3. Beheviour.
+ Human: 2 hands, legs, eyes, ears, nose.....
+ Student: id, name, subject... 
+ 
+ Address: house no. street no or name, pincode, state, country.....
+ Beheviour: (actions) 
+ 
+ Dhatrika Sai --->
+ 
+ Class: blue print or template which contains.. data, contructors, methods..... blocks.. inner class...
+ 
+ Inheritance: 
+ 
+ Tata Cars: 
+ 
+ Car -> TataMotors --> Nexon 
+ 
+ Encapsulation: 
+ Abstraction: 
+Procedure oriented pro: C, C++
+
+
+naming conventions:
+
+class: noun
+variables: alwsys small leters
+methods: lower case and in --> getDetails(), displayDetails()
+interface
+constants:
+inn
+
+what is method? : methods means function and it will expose the behiviour an object.
+
+they are 2 types: static method and instance method
+
+
+Static Method:
+
+static keyword and we can call static methods by using classname.stati emthod Student.getPerca()
+
+Instance Method: the method defined without static keyword we can instance mehtod or non-static method.
+non-static methods should call by using an object.
+
+what is an object? and tell some of the objects. and create one exaple lke student
+2. What is method and how to create?
+
+
