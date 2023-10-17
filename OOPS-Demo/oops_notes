@@ -84,6 +84,9 @@ long and float we need to specify the safix.
 
 10L or 10l and 10.90F or 10.90f
 
+What is constructor chaining? 
+means one cons can call another con and so on.. will called as contro chaining
+
 
 what is method? It is kind of function and will expose the behivour of an object
 2. Static mehtods, 2. Non-static method or instance method.
@@ -127,4 +130,14 @@ Operator Overloading: (-,+, *, %, ==)
 
 90+90"Gangadhar" ==> con
 
+
+this keyword:
+
+it will refer current class object or instance
+
+this keyword is used for only instance memebers( instance variables, non methods, instnace block) of current class. we can not use this keyword for static memebers(static variables, static methods, static block).
+
+Exception in thread "main" java.lang.StackOverflowError
+Exception in thread "main" JVMOutofMemeory
+ClasNotFoundException
 
