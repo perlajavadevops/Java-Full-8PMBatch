@@ -135,9 +135,33 @@ this keyword:
 
 it will refer current class object or instance
 
-this keyword is used for only instance memebers( instance variables, non methods, instnace block) of current class. we can not use this keyword for static memebers(static variables, static methods, static block).
+this keyword is used for only instance memebers( instance variables, non static methods, instnace block) of current class. we can not use this keyword for static memebers(static variables, static methods, static block).
 
 Exception in thread "main" java.lang.StackOverflowError
 Exception in thread "main" JVMOutofMemeory
 ClasNotFoundException
 
+
+Inheritance: 
+
+Single inheritance
+multi level inher
+multiple inher
+hieracle inher
+hybrid inher
+
+extends, implements
+
+what is adv inher? code reusabilityu
+
+
+Method Overriding?
+
+Parent class will have method.
+
+child class will be trying to override same method which is already present in the parent class
+1. method name should same.
+2. mehtod paramenters also should be same
+3. method return type is should same.. 
+
+Is java lang pass-by-value or pass-by-reference?
