@@ -68,7 +68,7 @@ public class SingleInheritanceDemo {
 			tr.labTest();;
 		}
 		
-		//JavaTrainner trainner3 =  (JavaTrainner) new Trainner();// ClassCastException -- runtime exception
+		JavaTrainner trainner3 =  (JavaTrainner) new Trainner();// ClassCastException -- runtime exception
 
 		/*
 		 * if() {

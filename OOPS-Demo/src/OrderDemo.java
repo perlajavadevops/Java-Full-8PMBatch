@@ -12,7 +12,7 @@ public class OrderDemo {
 		this.price = price;
 	}
 
-	public void displayOderDetails() {
+	public void displayOderDetails(int a) {
 		System.out.println(orderId);
 		System.out.println(item);
 		System.out.println(price);
@@ -37,11 +37,11 @@ public class OrderDemo {
 		 * OrderDemo orderDemo = new OrderDemo(); orderDemo.item = "T-Shirt";
 		 * orderDemo.orderId = 1; orderDemo.price = 900;
 		 */
-		orderDemo1.displayOderDetails();
+		orderDemo1.displayOderDetails(10);
 		System.out.println("==============");
-		orderDemo2.displayOderDetails();
+		orderDemo2.displayOderDetails(10);
 		System.out.println("==============");
-		orderDemo3.displayOderDetails();
+		orderDemo3.displayOderDetails(10);
 	}
 
 }

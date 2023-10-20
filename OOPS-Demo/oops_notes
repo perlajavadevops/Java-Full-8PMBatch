@@ -164,4 +164,4 @@ child class will be trying to override same method which is already present in t
 2. mehtod paramenters also should be same
 3. method return type is should same.. 
 
-Is java lang pass-by-value or pass-by-reference?
+Is java lang pass-by-value(call-by-value) or pass-by-reference(call-by-reference)?
