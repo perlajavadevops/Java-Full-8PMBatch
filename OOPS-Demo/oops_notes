@@ -165,3 +165,7 @@ child class will be trying to override same method which is already present in t
 3. method return type is should same.. 
 
 Is java lang pass-by-value(call-by-value) or pass-by-reference(call-by-reference)?
+
+
+Multiple Inheritnace: If one class is refering more than one class will called it as mulitple inheritnace
+but throuugh the class this feature cant not achived reason extends keyword will support to extend single class at a time and daimond problem.
