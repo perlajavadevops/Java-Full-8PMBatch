@@ -169,3 +169,27 @@ Is java lang pass-by-value(call-by-value) or pass-by-reference(call-by-reference
 
 Multiple Inheritnace: If one class is refering more than one class will called it as mulitple inheritnace
 but throuugh the class this feature cant not achived reason extends keyword will support to extend single class at a time and daimond problem.
+
+
+Multiple inherintance
+Daimond problem
+Polymorphism --> Compile and Runtime poly
+Super keyword
+final keyword.
+
+------------
+Abstraction: hiding implemenation and showing only functionality to the end user (users).
+
+abstract class : partial abstraction
+
+1. to create abstract class will use abstract keyword
+2. may or may not abstract class can have abstract methods
+3. abstract methods does not have body.
+4. abstract class can have concrete methods(final methods) which will not overriden in the sub class.
+5. abstract class also can have constr, variable, i.e means it will looks like normal class.
+6. abstract methods should have implementation (body) in the subclass 
+7. we can not create object for abstract class direclty i.e we have have to the sub class to create the object for abstract class.
+
+interface: fully abstraction.
+
+
