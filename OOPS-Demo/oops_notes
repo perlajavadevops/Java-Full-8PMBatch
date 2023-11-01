@@ -190,6 +190,69 @@ abstract class : partial abstraction
 6. abstract methods should have implementation (body) in the subclass 
 7. we can not create object for abstract class direclty i.e we have have to the sub class to create the object for abstract class.
 
-interface: fully abstraction.
+interface: fully abstraction and multiple inheritance.
+1. to create interface will use interface keyword
+2. we can define abstract methods but is optional.
+3. if the interface not having any abstract methods then we called it as empty interface or marker interface.
+4. We can only define public static finals variables i.e Constants.
+5. interface will not allow to define other than public abstract methods till java 7 version.
+6. From Java 8 onwards we can define default and static methods in the interface.
+7. we can not define even constr.
+8. abstract methods does not have body.
+9.  abstract methods should have implementation (body) in the subclass or we can also annosmous(name less) classes.
+10.  we can not create object for interface direclty i.e we have have to the sub class to create the object for interface class.
+11 implements keyword 
+
+12. between interfaces we have use extends.
+13. between the interfaces and classes we have to use implements.
+
+difference abstract class and interface?
+when to choose interface and abstract class?
+
+
+Packages: 
+1. to create package in java we have use package keyword.
+2. java packages will provide adv of avoiding naming colisiou (
+3. We can maintain class and interfaces separate 
+4. we have to use the import keyword to import the classes....
+5. we have some pre defined java packages. ex: java.lang, java.io, java.util.....
+6. java.lang is defualt package in java api. no need of import java.lang package related classes and interfaces...
+
+Encapsulation: Wrapping object data into single unit and hide the data from outside classes.
+
+1. in the class, the data members (variables) must and should as private members
+2. Should have public setter and getter methods for the variables or data memebers.
+
+CreditCard: cvv, card number, nameon the card, card type, card limit, card pinnumber.
+
+
+Adv: Hiding the data from outside of the class or securing the data from outside classes.
+
+
+Student: name, id, rollnumber, college, par, current, subject, markes, 
+
+Student{
+	private 
+}
+
+
+Java Basics:
+Data types
+Types varaibles
+types methods,
+OOPS: objce, class, inhirients, poly, abstr, encapu, cons, meht over, method overri, this, final, super, instanceOf, operator oper (+), interface, abs,
+
+paka, access modifiers.... upcasting, downcasting....
+
+
+byte  --> Byte
+short --> Short
+int --> Integer
+long --> Long
+float --> Float
+double --> Double
+boolean --> Boolean
+char --> Character
+
 
 
