@@ -36,3 +36,22 @@ n+(n-1)/n
 n/n+1
 
 number
+
+
+//write a program to retrive data from arrays using while loop
+//write a program to retrive data from arrays using do-while
+//write a prgarm to remove duplicates from arrays.
+//write a prog to print only duplicates.
+//write a pgrm to print mulplication 2 2*1, 2*2
+
+//wirte a progra to get only positive values
+
+//wirte a progra to get only nagitive values
+//
+//wirte a progra to get only even values
+
+//wirte a progra to get only odd values
+
+
+//Write a prm to rotate arrays in java.
+//Write a pgrm to print sum of array in java // 1,2,4,5,6 ==> 18 
