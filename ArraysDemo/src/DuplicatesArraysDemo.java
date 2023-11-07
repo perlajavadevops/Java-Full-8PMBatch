@@ -12,7 +12,8 @@ public class DuplicatesArraysDemo {
 		arr[5] = 7;
 
 		//Arrays.sort(arr);// collections//0-1,1-1,2-3,3-7
-
+//API -- Strings, Exceptional Handling, IO Streams, Inner classes, Multithreading, Collections Framework, Java 8 Features.
+		
 		int j = 0;
 
 		// below logic will help u to print only duplicates
