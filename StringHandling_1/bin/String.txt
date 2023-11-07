@@ -77,4 +77,6 @@ StringBuffer and StringBuilder
 //Reverse a string using normal for loop
 ////Reverse a string using recursive function (method)
 ////Reverse a string using stringbuffer reverse method
-//
+// Write a pgram to check given string is palindrom or not
+// Write a pgram to check given string is amstrong or not
+
