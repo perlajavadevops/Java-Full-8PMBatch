@@ -1,0 +1,76 @@
+1.java.io package
+2.Streams?
+3. 2 types: Character streams and Binary Streams
+ex: "Confience" --> bytes[] --> file 'Confience' --InputStream and OutStream
+
+FileWriter and FileReader
+abc --> abc
+
+4. FileInputStream --> and FileOutStream
+5. BufferedInputStream and BufferedOutStream
+ObjectInputStream and ObjectOutStream -->Serialization (java.io
+
+6. File-->
+
+System.out.println --> printstream -->PrintWriter
+
+Servlets
+
+7. IOException-->compiletime exception or checked exception
+
+escape sequence charaters
+
+
+8. Serialization is nothing converting java object to binary object
+9. De-Serialization is nothg con binry to java object.
+
+reading/writing --> from java? IOStreams -- Input/Output Stream. 
+Stream? -- Source and Destination?
+
+writing into file
+java --> file
+source    destination
+
+reading data from file
+file --> java
+source	destination
+
+===============
+streams are 2 tpe
+
+binary stream(
+reading and writing the binary
+1. FileInputStream
+2. FileOutputStream
+2
+character streams
+
+FileWriter and FileReader
+================
+serializatoin? Converting java object into binary streams. what is the
+
+Serializable? empty interface(marker interface)
+
+1(ATM netwrok) --> 1(Bank (hack data)
+
+De-Serialization -->converting binary streams object into java object
+
+
+Student impelnt servialbe
+
+
+
+
+
+
+
+Serialization:
+
+converting java object to binary stream object will called as serialization
+converting binary stream object to java object  will called as de-serialization
+
+Serializable -- network 
+
+
+
+

@@ -2,7 +2,7 @@ import java.io.IOException;
 
 class A {
 
-	public void m() throws Exception {
+	public void m() throws IOException {
 
 	}
 }

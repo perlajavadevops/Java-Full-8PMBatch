@@ -12,9 +12,9 @@ public class VoteEligibilityChecking {
 
 	public static void main(String[] args) {
 		try {
-			validateAge(17);
+			validateAge(19);
 		} catch (InvalidAgeException e) {
 			System.err.println(e.getErrorMessage()+", "+e.getErrorCode());// ATLS105
 		}
 	}
-}// 2 mins
+}

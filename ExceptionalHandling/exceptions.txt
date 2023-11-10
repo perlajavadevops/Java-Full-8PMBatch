@@ -69,3 +69,8 @@ Multi threading
 
 
 catch or finally
+
+
+Custome Exception:
+
+Either by extending RuntimeException or Exception.
