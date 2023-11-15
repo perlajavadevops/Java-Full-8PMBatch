@@ -1,0 +1,135 @@
+1. Multiprocess
+Multitask
+1. Process Based and Thread Based 
+
+THread means it is small unit ... it will run separately in jvm( in the stack aread)
+Multiple threads will share the same memory -
+
+thread execution is not guarted that which thread is executed and which thread is last so total it will depends processor.
+
+
+
+1 --  
+2 -- 
+
+
+5
+1-10
+MIN_prio
+NOrmal-prio
+Max_pri
+
+
+2. Types thread (user-defined thread)(Normal) (Demaon Thread)
+
+Thread Life Cycle: new state, runnable state, non-runnable state, terminated state( Destroyed)
+
+3. How to create
+	1. extend Thread --> 
+		start
+		sleep
+		join
+		getName
+		getId
+		setPro
+		setIsDeamon
+		...
+		..
+		..//interference -- Mutual Exclusive //8 gb ram
+		..
+		
+	2. implementing with Runnable -->
+4. Thread will in a separate call stack
+
+===========
+syni
+
+mutual ex, inter-thread communction(cooperation)(notity and wait())
+=========
+syn block
+syn method
+static syn
+
+
+
+
+1. Threads will depends on processor, which means your threads execution is not gaurante th1 -> th3 -> th2
+2. Threads will execute in separate call stack
+3. multiple threads will share resouces 
+4. 2 types: user defined threads, deamon threads: Main() --> main thread
+5. how to create threads; Thread and by Runnbla
+						1. multiple 
+						2. run() 
+5. Thread Life cycle -- new state
+                        non runnable
+                        runnable
+                        destroyed
+6. Threads Execution will be garuante because threads will depend on your processor
+
+syncronization:
+it will have capability to control the access of multiple threads to any shared resource(object).
+
+
+7. syncronization -- (Inter-thread communication)wait,notify> deamon thread. Thread Deadlock
+
+why or advantages syn:
+1. prvent thread interreference.
+2 prvent threads consistency problem.
+
+2 types: 
+
+process syncronization
+thread syncronization
+
+thread syncronization:
+
+
+Thread syncronization (Lock) //
+1. Mutual Exclusive: 
+	1. synchronized method
+	2. synchronized block
+	3. static synchronization
+2. Inter-thread communication (Co-operation communication)
+
+Lock? 
+
+syncronization will have inbuild lock or monitor. 
+java.util.concurrent.locks
+
+Types lOcking: 
+
+1. class level locking
+2. object level locking
+
+1. Object oops
+1. Reverse string "abc"--> "cba"
+2. find prime numbers
+3. fibonacci series
+4. armstrong number
+5. find duplicate numbers in arrays
+6. find duplicate and remove duplicat in array
+
+===============================
+What is thread? Thread is nothing small unit where it will run in separate call stack in JVM.
+2. Thread exectutions is not gaurante. Threads will depends on the processor
+3. Thread share the one shared memeory.
+4. Theads Life cycle. --> born(New) --> runnuable state -->non-runnable(Sleeping, waiting, stopped) --> terminated(Destroyed)
+
+----------------
+
+5. With Thread:
+ 
+ start(), sleep()..
+ 
+ Default thread name will be starting with Thread-0,Thead-1..Thread-
+ 
+ 
+ 
+ ==============
+ 2 types threads..
+ 
+ 
+ wait(1000), notify, notifyAll
+ 
+ 
+ Consumer --producer problem solution using threads?

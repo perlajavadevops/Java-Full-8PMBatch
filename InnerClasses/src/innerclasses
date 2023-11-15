@@ -1,0 +1,20 @@
+inner classes
+
+static clasess
+instance classes
+local classes
+Anonmous class
+
+
+class Outer{
+
+	class A{
+	
+	}
+
+}
+
+Outer.class
+Outer$A.class
+
+
